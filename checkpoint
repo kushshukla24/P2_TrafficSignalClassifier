@@ -1,0 +1,2 @@
+model_checkpoint_path: "LeNet5"
+all_model_checkpoint_paths: "LeNet5"
