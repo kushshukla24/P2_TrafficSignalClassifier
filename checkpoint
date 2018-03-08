@@ -1,2 +1,2 @@
-model_checkpoint_path: "LeNet5"
-all_model_checkpoint_paths: "LeNet5"
+model_checkpoint_path: "LeNet5Updated"
+all_model_checkpoint_paths: "LeNet5Updated"

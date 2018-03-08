@@ -1,5 +1,5 @@
-test_1: http://l7.alamy.com/zooms/739b0ea1a2be4d82a939edec1d410653/deer-crossing-road-sign-by1nmn.jpg
-test_2: https://thumbs.dreamstime.com/b/german-priority-road-sign-wet-curvy-street-88066598.jpg
-test_3: https://raw.githubusercontent.com/dhnkrn/Traffic-Sign-Classifier/master/images/german_1.jpg
+test_1: https://previews.123rf.com/images/hopre/hopre1601/hopre160100037/50860945-traffic-sign-warns-about-wild-animals-crossing-the-winter-road.jpg
+test_2: https://driveeuropenews.files.wordpress.com/2013/02/2384b.jpg
+test_3: https://www.shutterstock.com/search/ice+warning
 test_4: http://l7.alamy.com/zooms/275494bcd2d5433da92b19aacfdc23f7/blue-circular-roundabout-road-sign-arab2g.jpg
 test_5: http://bicyclegermany.com/Images/Laws/Stop%20sign.jpg
