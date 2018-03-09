@@ -214,9 +214,9 @@ My final model results were:
   With the introduction of Dropout layers between the fully connected layers and architecture described in reference article, the problem of overfitting on training data set solved as validation accuracy bumped from 78 to 96%, which is much close to training 100% as compared to before. 
   
  Best of Iterations:
- 3/3/2018: LeNet5 with parameter tuning: TrA: 96.5% VaA:78.4% TeA: 77.4%
- 5/3/2018: Graying the images using sum(image/3): TrA: 99.9% VaA:96.4% TeA: 94.4%
- 9/3/2018: Final Architecture: TrA: 100% VaA:96.4% TeA: 94.4%
+ * 3/3/2018: LeNet5 with parameter tuning: TrA: 96.5% VaA:78.4% TeA: 77.4%
+ * 5/3/2018: Graying the images using sum(image/3): TrA: 99.9% VaA:96.4% TeA: 94.4%
+ * 9/3/2018: Final Architecture: TrA: 100% VaA:96.4% TeA: 94.4%
  
 PS: The results may slightly vary in the html report.
  
